@@ -67,7 +67,7 @@ With `ArticleSection` including
 - multiple `paragraphs` following the headline
 
 ````console
-ArticleSection
+ArticleBody
     |-- headline: TextSequence
     |-- sections: List[ArticleSection]
                             |-- headline: TextSequence
